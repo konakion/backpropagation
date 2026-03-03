@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[coc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# --- OS / IDE ---
+.DS_Store
+.idea/
+.vscode/
+
+# --- Manim output (usually huge) ---
+Animations/media/
+
+# ...but keep this one preview video in the repo
+!Animations/media/
+!Animations/media/videos/
+!Animations/media/videos/backprop_mini/
+!Animations/media/videos/backprop_mini/480p15/
+!Animations/media/videos/backprop_mini/480p15/BackpropMini.mp4
