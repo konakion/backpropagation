@@ -16,7 +16,9 @@ This repository contains material for a short, self-contained lecture on **Backp
 
 ## Preview
 
-🎥 Animation preview: [`BackpropMini.mp4`](Animations/media/videos/backprop_mini/480p15/BackpropMini.mp4)
+[![Backprop animation preview](Animations/assets/previews/BackpropMini.gif)](Animations/media/videos/backprop_mini/480p15/BackpropMini.mp4)
+
+MP4: [`BackpropMini.mp4`](Animations/media/videos/backprop_mini/480p15/BackpropMini.mp4)
 
 ## Manim animations (uv)
 
